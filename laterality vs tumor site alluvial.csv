@@ -1,0 +1,289 @@
+age_group,laterality,tumor_site,count
+5-14 yrs,bilateral,Axillary tail,0
+5-14 yrs,bilateral,"Breast, NOS",0
+5-14 yrs,bilateral,Central portion,0
+5-14 yrs,bilateral,Lower-inner quadrant,0
+5-14 yrs,bilateral,Lower-outer quadrant,0
+5-14 yrs,bilateral,Nipple,0
+5-14 yrs,bilateral,Overlapping lesion,0
+5-14 yrs,bilateral,Upper-inner quadrant,0
+5-14 yrs,bilateral,Upper-outer quadrant,0
+5-14 yrs,left,Axillary tail,1
+5-14 yrs,left,"Breast, NOS",4
+5-14 yrs,left,Central portion,0
+5-14 yrs,left,Lower-inner quadrant,1
+5-14 yrs,left,Lower-outer quadrant,0
+5-14 yrs,left,Nipple,0
+5-14 yrs,left,Overlapping lesion,1
+5-14 yrs,left,Upper-inner quadrant,1
+5-14 yrs,left,Upper-outer quadrant,0
+5-14 yrs,right,Axillary tail,0
+5-14 yrs,right,"Breast, NOS",3
+5-14 yrs,right,Central portion,2
+5-14 yrs,right,Lower-inner quadrant,0
+5-14 yrs,right,Lower-outer quadrant,1
+5-14 yrs,right,Nipple,0
+5-14 yrs,right,Overlapping lesion,1
+5-14 yrs,right,Upper-inner quadrant,0
+5-14 yrs,right,Upper-outer quadrant,0
+5-14 yrs,unknown,Axillary tail,0
+5-14 yrs,unknown,"Breast, NOS",2
+5-14 yrs,unknown,Central portion,0
+5-14 yrs,unknown,Lower-inner quadrant,0
+5-14 yrs,unknown,Lower-outer quadrant,0
+5-14 yrs,unknown,Nipple,0
+5-14 yrs,unknown,Overlapping lesion,0
+5-14 yrs,unknown,Upper-inner quadrant,0
+5-14 yrs,unknown,Upper-outer quadrant,0
+15-24 yrs,bilateral,Axillary tail,0
+15-24 yrs,bilateral,"Breast, NOS",0
+15-24 yrs,bilateral,Central portion,0
+15-24 yrs,bilateral,Lower-inner quadrant,0
+15-24 yrs,bilateral,Lower-outer quadrant,0
+15-24 yrs,bilateral,Nipple,0
+15-24 yrs,bilateral,Overlapping lesion,0
+15-24 yrs,bilateral,Upper-inner quadrant,0
+15-24 yrs,bilateral,Upper-outer quadrant,0
+15-24 yrs,left,Axillary tail,2
+15-24 yrs,left,"Breast, NOS",93
+15-24 yrs,left,Central portion,27
+15-24 yrs,left,Lower-inner quadrant,19
+15-24 yrs,left,Lower-outer quadrant,34
+15-24 yrs,left,Nipple,4
+15-24 yrs,left,Overlapping lesion,93
+15-24 yrs,left,Upper-inner quadrant,49
+15-24 yrs,left,Upper-outer quadrant,153
+15-24 yrs,right,Axillary tail,2
+15-24 yrs,right,"Breast, NOS",78
+15-24 yrs,right,Central portion,18
+15-24 yrs,right,Lower-inner quadrant,25
+15-24 yrs,right,Lower-outer quadrant,21
+15-24 yrs,right,Nipple,0
+15-24 yrs,right,Overlapping lesion,92
+15-24 yrs,right,Upper-inner quadrant,43
+15-24 yrs,right,Upper-outer quadrant,140
+15-24 yrs,unknown,Axillary tail,0
+15-24 yrs,unknown,"Breast, NOS",9
+15-24 yrs,unknown,Central portion,0
+15-24 yrs,unknown,Lower-inner quadrant,0
+15-24 yrs,unknown,Lower-outer quadrant,0
+15-24 yrs,unknown,Nipple,0
+15-24 yrs,unknown,Overlapping lesion,0
+15-24 yrs,unknown,Upper-inner quadrant,0
+15-24 yrs,unknown,Upper-outer quadrant,0
+25-34 yrs,bilateral,Axillary tail,0
+25-34 yrs,bilateral,"Breast, NOS",12
+25-34 yrs,bilateral,Central portion,0
+25-34 yrs,bilateral,Lower-inner quadrant,0
+25-34 yrs,bilateral,Lower-outer quadrant,0
+25-34 yrs,bilateral,Nipple,0
+25-34 yrs,bilateral,Overlapping lesion,2
+25-34 yrs,bilateral,Upper-inner quadrant,0
+25-34 yrs,bilateral,Upper-outer quadrant,2
+25-34 yrs,left,Axillary tail,99
+25-34 yrs,left,"Breast, NOS",1519
+25-34 yrs,left,Central portion,378
+25-34 yrs,left,Lower-inner quadrant,421
+25-34 yrs,left,Lower-outer quadrant,632
+25-34 yrs,left,Nipple,55
+25-34 yrs,left,Overlapping lesion,1892
+25-34 yrs,left,Upper-inner quadrant,952
+25-34 yrs,left,Upper-outer quadrant,2976
+25-34 yrs,right,Axillary tail,106
+25-34 yrs,right,"Breast, NOS",1564
+25-34 yrs,right,Central portion,358
+25-34 yrs,right,Lower-inner quadrant,362
+25-34 yrs,right,Lower-outer quadrant,658
+25-34 yrs,right,Nipple,42
+25-34 yrs,right,Overlapping lesion,1867
+25-34 yrs,right,Upper-inner quadrant,833
+25-34 yrs,right,Upper-outer quadrant,3032
+25-34 yrs,unknown,Axillary tail,0
+25-34 yrs,unknown,"Breast, NOS",76
+25-34 yrs,unknown,Central portion,2
+25-34 yrs,unknown,Lower-inner quadrant,0
+25-34 yrs,unknown,Lower-outer quadrant,1
+25-34 yrs,unknown,Nipple,0
+25-34 yrs,unknown,Overlapping lesion,0
+25-34 yrs,unknown,Upper-inner quadrant,2
+25-34 yrs,unknown,Upper-outer quadrant,1
+35-44 yrs,bilateral,Axillary tail,1
+35-44 yrs,bilateral,"Breast, NOS",53
+35-44 yrs,bilateral,Central portion,1
+35-44 yrs,bilateral,Lower-inner quadrant,2
+35-44 yrs,bilateral,Lower-outer quadrant,0
+35-44 yrs,bilateral,Nipple,0
+35-44 yrs,bilateral,Overlapping lesion,10
+35-44 yrs,bilateral,Upper-inner quadrant,1
+35-44 yrs,bilateral,Upper-outer quadrant,5
+35-44 yrs,left,Axillary tail,330
+35-44 yrs,left,"Breast, NOS",6327
+35-44 yrs,left,Central portion,1663
+35-44 yrs,left,Lower-inner quadrant,1882
+35-44 yrs,left,Lower-outer quadrant,2829
+35-44 yrs,left,Nipple,216
+35-44 yrs,left,Overlapping lesion,7869
+35-44 yrs,left,Upper-inner quadrant,4243
+35-44 yrs,left,Upper-outer quadrant,13307
+35-44 yrs,right,Axillary tail,350
+35-44 yrs,right,"Breast, NOS",6293
+35-44 yrs,right,Central portion,1658
+35-44 yrs,right,Lower-inner quadrant,1731
+35-44 yrs,right,Lower-outer quadrant,2638
+35-44 yrs,right,Nipple,230
+35-44 yrs,right,Overlapping lesion,8202
+35-44 yrs,right,Upper-inner quadrant,3896
+35-44 yrs,right,Upper-outer quadrant,13216
+35-44 yrs,unknown,Axillary tail,1
+35-44 yrs,unknown,"Breast, NOS",322
+35-44 yrs,unknown,Central portion,0
+35-44 yrs,unknown,Lower-inner quadrant,1
+35-44 yrs,unknown,Lower-outer quadrant,3
+35-44 yrs,unknown,Nipple,2
+35-44 yrs,unknown,Overlapping lesion,8
+35-44 yrs,unknown,Upper-inner quadrant,5
+35-44 yrs,unknown,Upper-outer quadrant,10
+45-54 yrs,bilateral,Axillary tail,1
+45-54 yrs,bilateral,"Breast, NOS",114
+45-54 yrs,bilateral,Central portion,1
+45-54 yrs,bilateral,Lower-inner quadrant,2
+45-54 yrs,bilateral,Lower-outer quadrant,0
+45-54 yrs,bilateral,Nipple,2
+45-54 yrs,bilateral,Overlapping lesion,12
+45-54 yrs,bilateral,Upper-inner quadrant,1
+45-54 yrs,bilateral,Upper-outer quadrant,10
+45-54 yrs,left,Axillary tail,554
+45-54 yrs,left,"Breast, NOS",11185
+45-54 yrs,left,Central portion,3612
+45-54 yrs,left,Lower-inner quadrant,3569
+45-54 yrs,left,Lower-outer quadrant,5100
+45-54 yrs,left,Nipple,411
+45-54 yrs,left,Overlapping lesion,15065
+45-54 yrs,left,Upper-inner quadrant,8151
+45-54 yrs,left,Upper-outer quadrant,24679
+45-54 yrs,right,Axillary tail,507
+45-54 yrs,right,"Breast, NOS",10636
+45-54 yrs,right,Central portion,3429
+45-54 yrs,right,Lower-inner quadrant,3234
+45-54 yrs,right,Lower-outer quadrant,4835
+45-54 yrs,right,Nipple,417
+45-54 yrs,right,Overlapping lesion,15050
+45-54 yrs,right,Upper-inner quadrant,7342
+45-54 yrs,right,Upper-outer quadrant,24937
+45-54 yrs,unknown,Axillary tail,0
+45-54 yrs,unknown,"Breast, NOS",643
+45-54 yrs,unknown,Central portion,2
+45-54 yrs,unknown,Lower-inner quadrant,1
+45-54 yrs,unknown,Lower-outer quadrant,1
+45-54 yrs,unknown,Nipple,4
+45-54 yrs,unknown,Overlapping lesion,13
+45-54 yrs,unknown,Upper-inner quadrant,4
+45-54 yrs,unknown,Upper-outer quadrant,22
+55-64 yrs,bilateral,Axillary tail,1
+55-64 yrs,bilateral,"Breast, NOS",147
+55-64 yrs,bilateral,Central portion,2
+55-64 yrs,bilateral,Lower-inner quadrant,1
+55-64 yrs,bilateral,Lower-outer quadrant,5
+55-64 yrs,bilateral,Nipple,1
+55-64 yrs,bilateral,Overlapping lesion,25
+55-64 yrs,bilateral,Upper-inner quadrant,4
+55-64 yrs,bilateral,Upper-outer quadrant,13
+55-64 yrs,left,Axillary tail,550
+55-64 yrs,left,"Breast, NOS",12604
+55-64 yrs,left,Central portion,4654
+55-64 yrs,left,Lower-inner quadrant,4645
+55-64 yrs,left,Lower-outer quadrant,5997
+55-64 yrs,left,Nipple,679
+55-64 yrs,left,Overlapping lesion,18054
+55-64 yrs,left,Upper-inner quadrant,9642
+55-64 yrs,left,Upper-outer quadrant,28493
+55-64 yrs,right,Axillary tail,545
+55-64 yrs,right,"Breast, NOS",11913
+55-64 yrs,right,Central portion,4534
+55-64 yrs,right,Lower-inner quadrant,4124
+55-64 yrs,right,Lower-outer quadrant,5827
+55-64 yrs,right,Nipple,579
+55-64 yrs,right,Overlapping lesion,17499
+55-64 yrs,right,Upper-inner quadrant,8571
+55-64 yrs,right,Upper-outer quadrant,28254
+55-64 yrs,unknown,Axillary tail,3
+55-64 yrs,unknown,"Breast, NOS",1100
+55-64 yrs,unknown,Central portion,5
+55-64 yrs,unknown,Lower-inner quadrant,3
+55-64 yrs,unknown,Lower-outer quadrant,7
+55-64 yrs,unknown,Nipple,4
+55-64 yrs,unknown,Overlapping lesion,15
+55-64 yrs,unknown,Upper-inner quadrant,9
+55-64 yrs,unknown,Upper-outer quadrant,19
+65-74 yrs,bilateral,Axillary tail,0
+65-74 yrs,bilateral,"Breast, NOS",127
+65-74 yrs,bilateral,Central portion,5
+65-74 yrs,bilateral,Lower-inner quadrant,1
+65-74 yrs,bilateral,Lower-outer quadrant,1
+65-74 yrs,bilateral,Nipple,0
+65-74 yrs,bilateral,Overlapping lesion,18
+65-74 yrs,bilateral,Upper-inner quadrant,6
+65-74 yrs,bilateral,Upper-outer quadrant,24
+65-74 yrs,left,Axillary tail,524
+65-74 yrs,left,"Breast, NOS",11818
+65-74 yrs,left,Central portion,4824
+65-74 yrs,left,Lower-inner quadrant,4542
+65-74 yrs,left,Lower-outer quadrant,5684
+65-74 yrs,left,Nipple,695
+65-74 yrs,left,Overlapping lesion,17123
+65-74 yrs,left,Upper-inner quadrant,8921
+65-74 yrs,left,Upper-outer quadrant,26287
+65-74 yrs,right,Axillary tail,458
+65-74 yrs,right,"Breast, NOS",11162
+65-74 yrs,right,Central portion,4539
+65-74 yrs,right,Lower-inner quadrant,4145
+65-74 yrs,right,Lower-outer quadrant,5200
+65-74 yrs,right,Nipple,671
+65-74 yrs,right,Overlapping lesion,16571
+65-74 yrs,right,Upper-inner quadrant,8023
+65-74 yrs,right,Upper-outer quadrant,26196
+65-74 yrs,unknown,Axillary tail,0
+65-74 yrs,unknown,"Breast, NOS",1363
+65-74 yrs,unknown,Central portion,2
+65-74 yrs,unknown,Lower-inner quadrant,2
+65-74 yrs,unknown,Lower-outer quadrant,3
+65-74 yrs,unknown,Nipple,5
+65-74 yrs,unknown,Overlapping lesion,7
+65-74 yrs,unknown,Upper-inner quadrant,2
+65-74 yrs,unknown,Upper-outer quadrant,30
+75-84 yrs,bilateral,Axillary tail,0
+75-84 yrs,bilateral,"Breast, NOS",156
+75-84 yrs,bilateral,Central portion,4
+75-84 yrs,bilateral,Lower-inner quadrant,1
+75-84 yrs,bilateral,Lower-outer quadrant,2
+75-84 yrs,bilateral,Nipple,2
+75-84 yrs,bilateral,Overlapping lesion,23
+75-84 yrs,bilateral,Upper-inner quadrant,3
+75-84 yrs,bilateral,Upper-outer quadrant,18
+75-84 yrs,left,Axillary tail,487
+75-84 yrs,left,"Breast, NOS",12081
+75-84 yrs,left,Central portion,4725
+75-84 yrs,left,Lower-inner quadrant,3377
+75-84 yrs,left,Lower-outer quadrant,4329
+75-84 yrs,left,Nipple,797
+75-84 yrs,left,Overlapping lesion,14070
+75-84 yrs,left,Upper-inner quadrant,6335
+75-84 yrs,left,Upper-outer quadrant,20355
+75-84 yrs,right,Axillary tail,457
+75-84 yrs,right,"Breast, NOS",11323
+75-84 yrs,right,Central portion,4451
+75-84 yrs,right,Lower-inner quadrant,3097
+75-84 yrs,right,Lower-outer quadrant,4014
+75-84 yrs,right,Nipple,770
+75-84 yrs,right,Overlapping lesion,13526
+75-84 yrs,right,Upper-inner quadrant,5710
+75-84 yrs,right,Upper-outer quadrant,20054
+75-84 yrs,unknown,Axillary tail,0
+75-84 yrs,unknown,"Breast, NOS",3825
+75-84 yrs,unknown,Central portion,4
+75-84 yrs,unknown,Lower-inner quadrant,1
+75-84 yrs,unknown,Lower-outer quadrant,4
+75-84 yrs,unknown,Nipple,4
+75-84 yrs,unknown,Overlapping lesion,13
+75-84 yrs,unknown,Upper-inner quadrant,4
+75-84 yrs,unknown,Upper-outer quadrant,19
